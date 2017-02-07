@@ -14,4 +14,4 @@ It requires following things :
 
 5. give variables this data in credential.py
 
-Then you are good to run the good :D
+Then you are good to run this python code :D
